@@ -1,0 +1,2 @@
+selenium==2.44.0
+uWSGI==2.0.9
